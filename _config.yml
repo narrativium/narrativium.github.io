@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Shiny Appy Meeple
 pmarkdown: kramdown
+permalink: /blog/:year/:month/:day/:title
